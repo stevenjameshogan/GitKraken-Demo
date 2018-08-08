@@ -1,1 +1,3 @@
-let favoriteFood = "street tacos";
+let favoriteFood = "tacos";
+
+let opinion = "tacos rule";
